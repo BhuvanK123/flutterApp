@@ -1,2 +1,1 @@
 # flutterApp
-first hackathon submission
